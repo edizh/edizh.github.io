@@ -30,7 +30,7 @@ experience:
     location: Barcelona, Spain
     dates: 2019 — 2024
     highlights:
-      - Designed, fabricated, and tested plasmonic sensors for multicolor single-molecule fluorescence detection at micromolar concentrations.
+      - Designed (FDTD), fabricated (EBL, PVD), and tested (fluorescence spectroscopy) plasmonic sensors for multicolor single-molecule fluorescence detection at micromolar concentrations.
       - Published four papers, including ACS Nano (2023) and ACS Applied Materials & Interfaces (2024).
       - Collaborated within a European training network (MUSIQ), including joint research with Cardiff University and workshops at GSK.
   - role: Research Assistant
@@ -46,7 +46,7 @@ experience:
     location: Stuttgart, Germany
     dates: 2013 — 2017
     highlights:
-      - Characterized a low-cost nanophotonic hydrogen sensor with fiber-coupled illumination and readout, covering 50–100,000 ppm (ACS Sensors 2020).
+      - Fabricated (PVD, IBE) and characterized a low-cost nanophotonic hydrogen sensor with fiber-coupled illumination and readout, covering 50–100,000 ppm (ACS Sensors 2020).
 education:
   - degree: Ph.D. in Photonics
     institution: ICFO
@@ -72,7 +72,7 @@ awards:
 skills:
   - Electron-beam and photolithography
   - Thin films (PVD, ALD)
-  - Etching (RIE)
+  - Etching (RIE, IBE)
   - Characterization (SEM, AFM, Raman)
   - Spectroscopy (infrared, fluorescence)
   - Simulation (FDTD, FEM)
