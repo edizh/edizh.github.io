@@ -74,7 +74,7 @@ skills:
   - Thin films (PVD, ALD)
   - Etching (RIE, IBE)
   - Characterization (SEM, AFM, Raman)
-  - Spectroscopy (infrared, fluorescence)
+  - Spectroscopy (infrared absorption, fluorescence)
   - Simulation (FDTD, FEM)
   - Programming (Python, MATLAB, Git)
 languages: German and Turkish (native); English (C2); Spanish (C1)
