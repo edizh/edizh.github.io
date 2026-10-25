@@ -17,7 +17,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const { description, image = FallbackImage } = Astro.props;
 
-/** Absolute URLs so /website/ favicons resolve reliably on GitHub Pages (some clients mishandle root-relative icon links). */
+/** Absolute URLs so favicons resolve reliably on GitHub Pages (some clients mishandle root-relative icon links). */
 const publicBase = publicSiteRoot(Astro.site);
 const faviconIco = new URL('favicon.ico', publicBase).href;
 const faviconPng = new URL('favicon.png', publicBase).href;

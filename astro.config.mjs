@@ -9,7 +9,7 @@ import remarkMath from 'remark-math';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://edizh.github.io',
-	base: '/website',
+	base: '/',
 	// Makes `import.meta.env.BASE_URL` end with `/` (see Astro `base` docs). Prefer `src/lib/siteUrl.ts` over string concat.
 	trailingSlash: 'always',
 	integrations: [

@@ -3,7 +3,7 @@ title: Resume
 description: >-
   Photonics scientist with 10+ years in nanofabrication, cleanroom processes,
   and nanophotonic sensor development, from design and simulation to testing.
-tagline: Ph.D. in Photonics · Cleanroom & Nanofabrication Scientist · Nanophotonic Sensors · Barcelona, Spain
+tagline: Ph.D. in Photonics · Nanofabrication & Nanophotonics · Barcelona, Spain
 updatedDate: 2026-10-23
 summary: >-
   I am a photonics scientist with 10+ years of experience in nanofabrication, cleanroom processes, and photonic sensor design. My expertise covers the full development cycle of photonic devices, from design and simulation to fabrication and testing, across plasmonic metasurfaces, 2D materials, and fiber-coupled and FTIR-based optical sensors. My work has resulted in several peer-reviewed publications, including in ACS Nano and ACS Sensors, and an open-source Python library for parameter estimation under non-Gaussian noise.

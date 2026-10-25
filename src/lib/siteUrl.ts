@@ -1,6 +1,6 @@
 import { baseUrl } from '../consts';
 
-/** Origin + Astro `base` (e.g. `https://edizh.github.io/website/`). */
+/** Origin + Astro `base` (e.g. `https://edizh.github.io/`). */
 export function publicSiteRoot(site: URL | string): URL {
 	return new URL(baseUrl, typeof site === 'string' ? new URL(site) : site);
 }
