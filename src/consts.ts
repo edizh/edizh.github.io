@@ -9,7 +9,8 @@ export const FULL_NAME = 'Ediz Herkert';
 /** Site `<title>`, RSS feed name, etc. Defaults to your full name; change if you want a shorter title. */
 export const SITE_TITLE = FULL_NAME;
 
-export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const SITE_DESCRIPTION =
+	'Ediz Herkert, photonics scientist working on optical sensors and cleanroom process development.';
 
 /** Profile URLs for the header and footer (edit to match your accounts). */
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/ediz-herkert-7579b914b';
