@@ -4,7 +4,7 @@ description: >-
   Photonics scientist with 10+ years of experience developing optical sensors and
   nanophotonic devices, from design and simulation through cleanroom process
   development to experimental characterization.
-tagline: Optical Sensors · Cleanroom Process Development · Ph.D. in Photonics · Barcelona, Spain
+tagline: Optical Sensors · Cleanroom Process Development · Ph.D. in Photonics
 updatedDate: 2026-10-31
 summary: >-
   I am a photonics scientist with 10+ years of experience developing optical sensors and nanophotonic devices, from design and simulation through cleanroom process development to experimental characterization. 
