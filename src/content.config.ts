@@ -50,6 +50,8 @@ const resume = defineCollection({
 				organizationDetail: z.string().optional(),
 				location: z.string().optional(),
 				dates: z.string(),
+				/** Short paragraph shown above the highlights. */
+				description: z.string().optional(),
 				highlights: z.array(z.string()).optional(),
 			}),
 		),
@@ -61,12 +63,16 @@ const resume = defineCollection({
 					/** Shown after an accent separator (e.g. fellowship, host). */
 					institutionDetail: z.string().optional(),
 					dates: z.string().optional(),
-					note: z.string().optional(),
+					/** Each shown on its own line with a fixed label (Grade / Thesis Title / Coursework). */
+					grade: z.string().optional(),
+					thesis: z.string().optional(),
+					coursework: z.string().optional(),
 				}),
 			)
 			.optional(),
 		skills: z.array(z.string()).optional(),
 		awards: z.array(z.string()).optional(),
+		certificates: z.array(z.string()).optional(),
 		languages: z.string().optional(),
 	}),
 });
